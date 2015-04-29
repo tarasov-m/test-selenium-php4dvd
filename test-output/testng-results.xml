@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56222" started-at="2015-04-29T20:57:13Z" finished-at="2015-04-29T20:58:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56222" started-at="2015-04-29T20:57:13Z" finished-at="2015-04-29T20:58:10Z">
+      <class name="ru.st.selenium.TestAddAndDeleteFilm">
+        <test-method status="PASS" signature="init()[pri:0, instance:ru.st.selenium.TestAddAndDeleteFilm@66d33a]" name="init" is-config="true" duration-ms="15501" started-at="2015-04-29T23:57:13Z" finished-at="2015-04-29T23:57:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="LogIn()[pri:0, instance:ru.st.selenium.TestAddAndDeleteFilm@66d33a]" name="LogIn" is-config="true" duration-ms="6260" started-at="2015-04-29T23:57:29Z" finished-at="2015-04-29T23:57:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIn -->
+        <test-method status="PASS" signature="testAddFilmCorrectThrowSearch()[pri:0, instance:ru.st.selenium.TestAddAndDeleteFilm@66d33a]" name="testAddFilmCorrectThrowSearch" duration-ms="10193" started-at="2015-04-29T23:57:35Z" finished-at="2015-04-29T23:57:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddFilmCorrectThrowSearch -->
+        <test-method status="PASS" signature="LogOut()[pri:0, instance:ru.st.selenium.TestAddAndDeleteFilm@66d33a]" name="LogOut" is-config="true" duration-ms="1759" started-at="2015-04-29T23:57:45Z" finished-at="2015-04-29T23:57:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+        <test-method status="PASS" signature="LogIn()[pri:0, instance:ru.st.selenium.TestAddAndDeleteFilm@66d33a]" name="LogIn" is-config="true" duration-ms="4604" started-at="2015-04-29T23:57:47Z" finished-at="2015-04-29T23:57:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIn -->
+        <test-method status="PASS" signature="testAddFilmNoCorrectData()[pri:0, instance:ru.st.selenium.TestAddAndDeleteFilm@66d33a]" name="testAddFilmNoCorrectData" duration-ms="6181" started-at="2015-04-29T23:57:52Z" finished-at="2015-04-29T23:57:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddFilmNoCorrectData -->
+        <test-method status="PASS" signature="LogOut()[pri:0, instance:ru.st.selenium.TestAddAndDeleteFilm@66d33a]" name="LogOut" is-config="true" duration-ms="1337" started-at="2015-04-29T23:57:58Z" finished-at="2015-04-29T23:57:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+        <test-method status="PASS" signature="LogIn()[pri:0, instance:ru.st.selenium.TestAddAndDeleteFilm@66d33a]" name="LogIn" is-config="true" duration-ms="4505" started-at="2015-04-29T23:57:59Z" finished-at="2015-04-29T23:58:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIn -->
+        <test-method status="PASS" signature="testDeleteFilm()[pri:0, instance:ru.st.selenium.TestAddAndDeleteFilm@66d33a]" name="testDeleteFilm" duration-ms="4446" started-at="2015-04-29T23:58:04Z" finished-at="2015-04-29T23:58:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteFilm -->
+        <test-method status="PASS" signature="LogOut()[pri:0, instance:ru.st.selenium.TestAddAndDeleteFilm@66d33a]" name="LogOut" is-config="true" duration-ms="1390" started-at="2015-04-29T23:58:08Z" finished-at="2015-04-29T23:58:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ru.st.selenium.TestAddAndDeleteFilm@66d33a]" name="tearDown" is-config="true" duration-ms="789" started-at="2015-04-29T23:58:10Z" finished-at="2015-04-29T23:58:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ru.st.selenium.TestAddAndDeleteFilm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
